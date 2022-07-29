@@ -1,4 +1,4 @@
-# Hello,
+# Hello
 # this is the Lab Record 
 
 
